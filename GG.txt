@@ -1,0 +1,8 @@
+git config --global user.name john
+git config --global user.email john
+git init
+git add .
+git commit -m "Initial Commit"
+git status
+git remote add origin
+git push origin master
